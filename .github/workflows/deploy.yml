@@ -57,5 +57,11 @@ jobs:
                   IXGXGyI2FO0pGagSrEUTN/BfbUf5ZbuhSxzz0LgwRtJzxmR48xM3x/pyTabgdRIT0lTsV4
                   guEBgKJszmMVMFAAAAKXJvb3RAd29yZHByZXNzLXVidW50dS1zLTF2Y3B1LTFnYi1zZ3Ax
                   LTAxAQ==}}
-          username: ${{secrets.root}}          
+          username: ${{secrets.root}}  
+          
+          script:
+            mkdir test
+            cd test
+            git clone git@github.com:BeauWilliams97/thisiscancer.git
+            echo 'Deployment Successful to Digital Ocean'
           
