@@ -21,6 +21,44 @@ jobs:
       - uses: actions/checkout@v2
         with:
           host: ${{secrets.188.166.218.124}}
+          key: ${{secrets.b3BlbnNzaC1rZXktdjEAAAAABG5vbmUAAAAEbm9uZQAAAAAAAAABAAABlwAAAAdzc2gtcn
+                NhAAAAAwEAAQAAAYEAwFHkriknNm73/8hNdVSZHBFGcC3272Scv3VggQ/fqA+RUN7u7CwE
+                zBhlwR35zbTgcDC8XgjRQxdIa6f7w8J9AUam3bUMl85KLLUvt1HD5Uu6D3RM4+kJWyn1rO
+                Gz4stiNyR/KRn0CSzsEOIuSS6BlmnPBUdmd7lPfGNFwd/T8cmLaOnMneo2K3JZR4JzRXP+
+                j2j4OYvxtF1+5RTFY1tx1D4nLsGzAaV/0P/dATV2vsDCoLcQ9t3G6Jng+TaKzoPJJqudIC
+                KKVoyJ+Z81HqhNlzYkO5QiAmg/ZZpOZRiiAUiNX5Kzsy5Ii4TwluJZrKDA/owa4BkDxPs2
+                xCTdWEkB//xjAi57Oz8Nra/yj0AXO8Y8+i/3oRKEiU1qLSE8xItJCaCPSs2O5gvHIVV3jn
+                Iyomt2B6e2Z7/FGXhBDXISGT5bu0k+AGlp6smDn7eOhSiFPZDXtRWPREvfxyVTvSCQeO+o
+                Hp85Rn9Bu5/diavKJtXu7gCSf+hy1fCJbKaSe+p/AAAFoKm/a7Cpv2uwAAAAB3NzaC1yc2
+                EAAAGBAMBR5K4pJzZu9//ITXVUmRwRRnAt9u9knL91YIEP36gPkVDe7uwsBMwYZcEd+c20
+                4HAwvF4I0UMXSGun+8PCfQFGpt21DJfOSiy1L7dRw+VLug90TOPpCVsp9azhs+LLYjckfy
+                kZ9Aks7BDiLkkugZZpzwVHZne5T3xjRcHf0/HJi2jpzJ3qNityWUeCc0Vz/o9o+DmL8bRd
+                fuUUxWNbcdQ+Jy7BswGlf9D/3QE1dr7AwqC3EPbdxuiZ4Pk2is6DySarnSAiilaMifmfNR
+                6oTZc2JDuUIgJoP2WaTmUYogFIjV+Ss7MuSIuE8JbiWaygwP6MGuAZA8T7NsQk3VhJAf/8
+                YwIuezs/Da2v8o9AFzvGPPov96EShIlNai0hPMSLSQmgj0rNjuYLxyFVd45yMqJrdgentm
+                e/xRl4QQ1yEhk+W7tJPgBpaerJg5+3joUohT2Q17UVj0RL38clU70gkHjvqB6fOUZ/Qbuf
+                3YmryibV7u4Akn/octXwiWymknvqfwAAAAMBAAEAAAGAXkxJOnQHPBNxGkOWZz9Ry4dU6F
+                BBUeQdT2s4JFAqM/deIy8MK1TyDTixO918zLYxjhD3a4wbPzA9XDwDoFrOfD+uNes9/3kw
+                uXclrFc1HErjMgyuXtm2srKCOYB5eWyL/cmxZ+/Hzm/uV+DvHQbml1/OGCKIRY/hP3ZVj9
+                g1zcoqxwhMQenDIc5xpDR8XMOhP6QSgfTyUKO/QofKuQrvZ0gKYkyrftUtNMcgECWs0Z8m
+                TzMz6DeZ/hblTozFxriqoOee3mvEplW6slpM3fLR4weOMsaB//KanPwcPsZg47WA2+FGzl
+                luXPLNBT10V2YN4GKqlsKl9guvfP8xbstpImo0Hxw+VVKhRWTVMPTDJjtiRKbuJ7cxxx3q
+                AJaWdxaB3sDk9a7DHfZZC3OPqTW4P1s6h7EME2HzrTk7F+Ilwm74v7q0w7wbxSAaYK/JJq
+                pGlHhfG8cQIC0v8TBhL3ZmGIZxPYOPlQGD/DFqN71tOPTkL73t2fzJLoB3TB7vpfCxAAAA
+                wQC536IWbv+8cQ38KrI7HSYEyccBuzxYl3sTq/9psQZINA5rAMTCkqR1HIs48rhIKQJD6v
+                mGmm66ggbsC52jAw6AFnMRM9GpzvmSR1zqAQMJr2nozLETDihzcyqkJlunTvy54vHuj6JO
+                AugovtF7X7Lxa4x8Oz9if4U4mqejtvryukETHFmbPHaT+fmGMf2WKeuss62iS7RN26JjsB
+                RjbFAH6iVJDme8lACecTGnLc7JNyOqV4Zt4HEr/e+jzp+qsBYAAADBAN+jT+/x9d1UUy1F
+                Qg7FqW5msQ7RftZKwdMfIM6DrM3etpkWVYbAr7UDn7DysPS+42TDUj8bGg9vSjrxBuzjwy
+                A52XanxkctXj+OCTqNujJHEfyf08KoYFkTofg9JZL7MtpJxlk3HOLvoJmuyyYeSSAD+eSM
+                ZqyPWMw4/aKGpeiOjWYECcITFrMUVMgJ9MsMCJHQ8TZ/h3CdBYk0/CJ06zTNccB5fOAzIh
+                vh6g3dAh33kPMWZ79rIDYtmTEONPXGswAAAMEA3CZmupzvBYJT0/m3+r6NvhPnybKN9iT1
+                cQgM4tVlCSvSdls0ivlr+5KWgqbxYhgn9TSES6zaxi8JYrvvrIIRyMYBp9IfnT2wMd852/
+                yQWas0GqG5WYUzOhdC/AU5MqN4RqzXxeKJTQNFSGAMXhZuENHvoVFLlcskh2V4BT1OfGVX
+                IXGXGyI2FO0pGagSrEUTN/BfbUf5ZbuhSxzz0LgwRtJzxmR48xM3x/pyTabgdRIT0lTsV4
+                guEBgKJszmMVMFAAAAKXJvb3RAd29yZHByZXNzLXVidW50dS1zLTF2Y3B1LTFnYi1zZ3Ax
+                LTAxAQ==}}
+          username: ${{secrets.beau}}
       # Runs a set of commands using the runners shell
       - name: Run a multi-line script
         run: |
