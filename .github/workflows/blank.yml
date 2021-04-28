@@ -20,8 +20,8 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
         with:
-          host: ${{secrets.188.166.218.124}}
-          key: ${{secrets.b3BlbnNzaC1rZXktdjEAAAAABG5vbmUAAAAEbm9uZQAAAAAAAAABAAABlwAAAAdzc2gtcn
+          host: ${{ secrets.188.166.218.124}}
+          key: ${{ secrets.b3BlbnNzaC1rZXktdjEAAAAABG5vbmUAAAAEbm9uZQAAAAAAAAABAAABlwAAAAdzc2gtcn
                 NhAAAAAwEAAQAAAYEAwFHkriknNm73/8hNdVSZHBFGcC3272Scv3VggQ/fqA+RUN7u7CwE
                 zBhlwR35zbTgcDC8XgjRQxdIa6f7w8J9AUam3bUMl85KLLUvt1HD5Uu6D3RM4+kJWyn1rO
                 Gz4stiNyR/KRn0CSzsEOIuSS6BlmnPBUdmd7lPfGNFwd/T8cmLaOnMneo2K3JZR4JzRXP+
@@ -58,7 +58,7 @@ jobs:
                 IXGXGyI2FO0pGagSrEUTN/BfbUf5ZbuhSxzz0LgwRtJzxmR48xM3x/pyTabgdRIT0lTsV4
                 guEBgKJszmMVMFAAAAKXJvb3RAd29yZHByZXNzLXVidW50dS1zLTF2Y3B1LTFnYi1zZ3Ax
                 LTAxAQ==}}
-          username: ${{secrets.beau}}
+          username: ${{ secrets.beau}}
       # Runs a set of commands using the runners shell
       - name: Run a multi-line script
         run: |
